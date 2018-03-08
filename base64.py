@@ -103,3 +103,5 @@ if __name__ == '__main__':
         print 'decode : ' + de
     else:
         exit(1)
+        
+#made by Gyeongje
